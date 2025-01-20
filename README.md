@@ -34,7 +34,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Projeto útil para recaptulação e fixação de conceitos básicos como semântica em HTML e propriedades em CSS.
+Useful project for recapping and fixing basic concepts such as semantics in HTML and properties in CSS.
 
 ## Author
 
